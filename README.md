@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PhymasSC
 - 👀 I’m interested in java, python, lua and cybersecurity.
-- 🌱 I’m currently learning in University Malaysia Terengganu (UMT)
+- 🌱 I’m currently learning in Java, Html/Css and Javascript.
+- 🏫 I'm currently studying in University Malaysia Terengganu (UMT).
 
 <!---
 PhymasSC/PhymasSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
