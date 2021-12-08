@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhymasSC
-- 👀 I’m interested in java, python, lua and cybersecurity.
-- 🌱 I’m currently learning in Java, Html/Css and Javascript.
+- 👀 I’m interested in Java, Python, Lua and Cybersecurity.
+- 🌱 I’m currently learning in Java, MySQL, MongoDB, NodeJs and ExpressJs.
 - 🏫 I'm currently studying in University Malaysia Terengganu (UMT).
 
 <!---
