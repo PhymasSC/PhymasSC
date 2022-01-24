@@ -4,7 +4,7 @@
 <ul>
     <li>👋 Hi, I’m @PhymasSC</li>
     <li>👀 I’m interested in <strong>Full stack development</strong>.</li>
-    <li>🌱 I’m currently learning in <strong>Java</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong>, <strong>NodeJs</strong> and <strong>ExpressJs</strong>.</li>
+    <li>🌱 I’m currently learning in <strong>React</strong> and <strong>Next js</strong>.</li>
     <li>🏫 I'm currently studying in <strong>University Malaysia Terengganu (UMT)</strong>.</li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
